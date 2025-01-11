@@ -7,9 +7,23 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC",
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juyeonbae/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juyeonbae/blog/issues"
+  },
+  "homepage": "https://github.com/juyeonbae/blog#readme",
+>>>>>>> 7a518bdcc2d81cd0104a8428d90c33ac9c9b63a9
   "description": "",
   "dependencies": {
     "rss-parser": "^3.13.0"

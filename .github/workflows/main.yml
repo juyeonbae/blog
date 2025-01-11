@@ -10,7 +10,11 @@ on:
     branches: [ main ]
   # 1시간에 한번씩 아래 스크립트를 실행한다.
   schedule:
+<<<<<<< HEAD
     - cron: "0 */12 * * *"
+=======
+    - cron: "0 */12 * * *" # 23시 50분 -> "50 23 * * *"
+>>>>>>> 7a518bdcc2d81cd0104a8428d90c33ac9c9b63a9
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
