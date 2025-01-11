@@ -26,7 +26,7 @@ const parser = new Parser({
     try {
         console.log('RSS 피드 가져오기 시작...');
         
-        const feed = await parser.parseURL('https://devpad.tistory.com/rss');
+        const feed = await parser.parseURL('https://zo0oz.tistory.com/rss');
         console.log('RSS 피드 가져오기 성공');
         console.log('피드 아이템 수:', feed.items?.length);
         
