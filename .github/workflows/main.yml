@@ -6,35 +6,53 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: "0 */12 * * *"  # 12시간마다 실행
+    - cron: "0 */12 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+      
+      - name: Check directory content before setup
+        run: |
+          pwd
+          ls -la
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 20
-
+          cache: 'npm'
+      
       - name: Install dependencies
         run: | 
           npm ci
-          npm install rss-parser
-
+          npm list rss-parser
+      
       - name: Update README
-        run: npm start
-
-      - name: Check if there are any changes
-        id: verify_diff
         run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: Commit README
-        if: steps.verify_diff.outputs.changed == 'true'
+          node index.js
+          ls -la
+          cat README.md || echo "README.md not found"
+      
+      - name: Configure Git
         run: |
           git config --local user.email "juyeonbae.dev@gmail.com"
           git config --local user.name "juyeonbae"
-          git add .
-          git commit -m "Update README.md"
-          git push origin main
+      
+      - name: Check Git Status
+        run: |
+          git status
+          git diff
+      
+      - name: Commit and Push
+        run: |
+          git add README.md
+          git commit -m "Update README.md" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
