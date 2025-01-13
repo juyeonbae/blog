@@ -10,6 +10,29 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/287' target='_blank'>[BOJ][Python] 3054 피터팬 프레임</a></b> (2025. 1. 13.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 5
+문제 유형: 구현
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+
+
+ 
+[조건]
+1. 3의 배수 위치의 글자는 웬디 프레임으로
+2. 피터팬 프레임과 겹칠 경우 웬디 프레임으로
+3. 글자 > 1 인 경우, 마지막 프레임은 다음 프레임과 겹친...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/286' target='_blank'>[BOJ][Python] 20312 CPU 벤치마킹</a></b> (2025. 1. 10.)</summary>
 
 Overview
@@ -78,29 +101,6 @@ https://www.acmicpc.net/problem/4963
 1.1 디자인 패턴
 ✔︎ 디자인 패턴이란? 
 : 프로그램을 설계할 때 발생했던 문제점들을 객...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/279' target='_blank'>[BOJ][Python] 29717 슬라임 잡고 레벨 업!</a></b> (2024. 12. 4.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 2
-문제 유형: 이분탐색
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-https://www.acmicpc.net/problem/29717
- 
-
-# 처치한 슬라임 수 : x
-# 새로운 슬라임을 처치하면 x + 1 만큼의 경험치
-
-# 현재 레벨...
 
 </details>
 
