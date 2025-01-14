@@ -10,6 +10,25 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/288' target='_blank'>인스턴스(Instance)와 메서드(Method)</a></b> (2025. 1. 13.)</summary>
+
+Introduce
+인스턴스랑 메서드에 대해 정확하게 알지 못해 헷갈려서 정리를 해보겠습니다.
+요약
+
+클래스 = 자동차 설계도
+인스턴스 = 실제 생상된 개별 자동차
+메서드 = 자동차로 할 수 있는 동작들(시동 걸기, 운전하기, 정지하기 등)
+
+
+1. 인스턴스(Instance)
+클래스를 기반으로 생성된 실제 객체를 의미한다.
+
+클래스는 설계도, 인스턴스는 이 ...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/287' target='_blank'>[BOJ][Python] 3054 피터팬 프레임</a></b> (2025. 1. 13.)</summary>
 
 Overview
@@ -87,20 +106,6 @@ https://www.acmicpc.net/problem/4963
  
 정사각형으로 이루어져 있는 섬과 바다 지도가 주어진다. 섬의 개수를 세는 프로그램을 작성하시오.
 한 정...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/280' target='_blank'>디자인 패턴 &amp; 프로그래밍 패러다임</a></b> (2024. 12. 5.)</summary>
-
-디자인 패턴 &amp; 프로그래밍 패러다임 
- 
-* 라이브러리: 공통으로 사용될 수 있는 특정한 기능들을 모듈화한 것 (규칙이 없고 프레임워크에 비해 자유롭다)
-* 프레임워크: 공통으로 사용될 수 있는 특정한 기능들을 모듈화한 것 (폴더명, 파일명 등 규칙 존재)
-
-1.1 디자인 패턴
-✔︎ 디자인 패턴이란? 
-: 프로그램을 설계할 때 발생했던 문제점들을 객...
 
 </details>
 
