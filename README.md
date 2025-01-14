@@ -10,6 +10,30 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/289' target='_blank'>[BOJ][Python] 27357 부가세</a></b> (2025. 1. 14.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 3
+문제 유형: 수학, 브루트포스
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+1달러 = 100센트
+4.30 => 4달러 30센트
+5.00 => 5달러 or 500센트
+
+구매한 N개의 물건의 가격과 부가세를 ...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/288' target='_blank'>인스턴스(Instance)와 메서드(Method)</a></b> (2025. 1. 13.)</summary>
 
 Introduce
@@ -86,26 +110,6 @@ lst = list(...
 최근 프로젝트에서 코드 리팩토링을 진행하며, 데이터를 어떻게 더 깔끔하고 효율적으로 다룰 수 있을지 고민하던 중 dataclass와 pydantic을 접하게 되었습니다. 두 도구를 활용하면 복잡한 데이터 구조를 명확하게 정의하고, 유효성을 검증할 수 있다는 점에서 흥미를 느꼈습니다.
  
 데이터를 체계적으로 구조화하고 검증하는 작업...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/282' target='_blank'>[BOJ][Python] 4963 섬의 개수</a></b> (2024. 12. 5.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 2
-문제 유형: BFS
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-https://www.acmicpc.net/problem/4963
- 
-정사각형으로 이루어져 있는 섬과 바다 지도가 주어진다. 섬의 개수를 세는 프로그램을 작성하시오.
-한 정...
 
 </details>
 
