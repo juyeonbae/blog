@@ -10,6 +10,29 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/290' target='_blank'>[BOJ][Python] 25179 배스킨라빈스~N~귀엽고~깜찍하게~</a></b> (2025. 1. 15.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 4
+문제 유형: 수학, 게임이론
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+[코드]
+이 문제는 2인 게임 필승 전략을 이미 알고 있던 사람이라면 쉽게 풀 수 있다. 
+우리가 알고 있는 베스킨라빈스 31 ...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/289' target='_blank'>[BOJ][Python] 27357 부가세</a></b> (2025. 1. 14.)</summary>
 
 Overview
@@ -100,16 +123,6 @@ MOD = 1000000007
 
 n = int(input())
 lst = list(...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/283' target='_blank'>[Python] 데이터 검증과 구조화: dataclasses vs Pydantic</a></b> (2024. 12. 18.)</summary>
-
-  Introduction
-최근 프로젝트에서 코드 리팩토링을 진행하며, 데이터를 어떻게 더 깔끔하고 효율적으로 다룰 수 있을지 고민하던 중 dataclass와 pydantic을 접하게 되었습니다. 두 도구를 활용하면 복잡한 데이터 구조를 명확하게 정의하고, 유효성을 검증할 수 있다는 점에서 흥미를 느꼈습니다.
- 
-데이터를 체계적으로 구조화하고 검증하는 작업...
 
 </details>
 
