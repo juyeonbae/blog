@@ -10,6 +10,28 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/291' target='_blank'>[BOJ][Python] 3071 The ♡ System</a></b> (2025. 1. 16.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 3
+문제 유형: 진법, 구현
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+* 일단 문제에 오타가 있다.
+ \(3^{2}\) +  \(3^{1}\)  +  \(3^{0}\)  인데,  \(3^{1}\)  +...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/290' target='_blank'>[BOJ][Python] 25179 배스킨라빈스~N~귀엽고~깜찍하게~</a></b> (2025. 1. 15.)</summary>
 
 Overview
@@ -95,34 +117,6 @@ Overview
 1. 3의 배수 위치의 글자는 웬디 프레임으로
 2. 피터팬 프레임과 겹칠 경우 웬디 프레임으로
 3. 글자 > 1 인 경우, 마지막 프레임은 다음 프레임과 겹친...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/286' target='_blank'>[BOJ][Python] 20312 CPU 벤치마킹</a></b> (2025. 1. 10.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 1
-문제 유형: DP
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-1️⃣2차원 배열로 dp를 만들어주었다. 
-
-
-MOD = 1000000007
-
-n = int(input())
-lst = list(...
 
 </details>
 
