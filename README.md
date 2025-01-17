@@ -10,6 +10,30 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/292' target='_blank'>[BOJ][Python] 29753 최소 성적</a></b> (2025. 1. 17.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 4
+문제 유형: 수학, 구현, 임의 정밀도 
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+ 
+[풀이]
+"단, 실수 자료형을 사용할 경우 부동소수점 오차가 발생할 수 있으므로 주의하라." 
+이 문장 때문에 ...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/291' target='_blank'>[BOJ][Python] 3071 The ♡ System</a></b> (2025. 1. 16.)</summary>
 
 Overview
@@ -94,29 +118,6 @@ Introduce
 클래스를 기반으로 생성된 실제 객체를 의미한다.
 
 클래스는 설계도, 인스턴스는 이 ...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/287' target='_blank'>[BOJ][Python] 3054 피터팬 프레임</a></b> (2025. 1. 13.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 5
-문제 유형: 구현
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-
-
- 
-[조건]
-1. 3의 배수 위치의 글자는 웬디 프레임으로
-2. 피터팬 프레임과 겹칠 경우 웬디 프레임으로
-3. 글자 > 1 인 경우, 마지막 프레임은 다음 프레임과 겹친...
 
 </details>
 
