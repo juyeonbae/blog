@@ -10,6 +10,29 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/294' target='_blank'>[BOJ][Python] 32344 유물 발굴</a></b> (2025. 1. 18.)</summary>
+
+Overview
+
+체감 난이도: ★☆☆☆☆
+문제 레벨: 실버 5
+문제 유형: 구현, 기하학
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+[코드]
+간단 구현 문제 
+다른 사람들은 입력값을 받으면서 좌표의 최소, 최대를 갱신해주는 방법으로 구현했는데, (시간 복잡도: ...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/292' target='_blank'>[BOJ][Python] 29753 최소 성적</a></b> (2025. 1. 17.)</summary>
 
 Overview
@@ -99,25 +122,6 @@ Overview
 5.00 => 5달러 or 500센트
 
 구매한 N개의 물건의 가격과 부가세를 ...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/288' target='_blank'>인스턴스(Instance)와 메서드(Method)</a></b> (2025. 1. 13.)</summary>
-
-Introduce
-인스턴스랑 메서드에 대해 정확하게 알지 못해 헷갈려서 정리를 해보겠습니다.
-요약
-
-클래스 = 자동차 설계도
-인스턴스 = 실제 생상된 개별 자동차
-메서드 = 자동차로 할 수 있는 동작들(시동 걸기, 운전하기, 정지하기 등)
-
-
-1. 인스턴스(Instance)
-클래스를 기반으로 생성된 실제 객체를 의미한다.
-
-클래스는 설계도, 인스턴스는 이 ...
 
 </details>
 
