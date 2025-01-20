@@ -10,6 +10,32 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/295' target='_blank'>[BOJ][Python] 20153 영웅이는 2의 거듭 제곱을 좋아해!</a></b> (2025. 1. 20.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 2
+문제 유형: 비트마스킹, 브루트포스
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+ 
+[문제 설명] - 예제 입력 1
+첫째 줄에 자연수 N: 3
+둘째 줄에 N개의 자연수: 5 7 11
+ 
+N개의 자연수를...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/294' target='_blank'>[BOJ][Python] 32344 유물 발굴</a></b> (2025. 1. 18.)</summary>
 
 Overview
@@ -98,30 +124,6 @@ Overview
 [코드]
 이 문제는 2인 게임 필승 전략을 이미 알고 있던 사람이라면 쉽게 풀 수 있다. 
 우리가 알고 있는 베스킨라빈스 31 ...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/289' target='_blank'>[BOJ][Python] 27357 부가세</a></b> (2025. 1. 14.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 3
-문제 유형: 수학, 브루트포스
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
-1달러 = 100센트
-4.30 => 4달러 30센트
-5.00 => 5달러 or 500센트
-
-구매한 N개의 물건의 가격과 부가세를 ...
 
 </details>
 
