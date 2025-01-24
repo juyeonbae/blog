@@ -10,6 +10,42 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/297' target='_blank'>[Code Tree][Python] IL Simulation 금 채굴하기</a></b> (2025. 1. 23.)</summary>
+
+Overview
+
+체감 난이도: ★★★☆☆ 
+문제 레벨: IL / Simulation / 격자 안에서 완전 탐색 / 연습 문제 
+문제 유형: Simulation 
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+Trail 4 / Chapter 1 / Lesson 1 / 연습 문제
+https://www.c...
+
+</details>
+
+<details>
+<summary><b><a href='https://zo0oz.tistory.com/296' target='_blank'>[Code Tree][Python] IL Simulation 트로미노</a></b> (2025. 1. 23.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: IL / Simulation / 격자 안에서 완전 탐색 / 연습 문제 
+문제 유형: Simulation
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+Trail 4 / Chapter 1 / Lesson 1 / 연습 문제
+https://www.cod...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/295' target='_blank'>[BOJ][Python] 20153 영웅이는 2의 거듭 제곱을 좋아해!</a></b> (2025. 1. 20.)</summary>
 
 Overview
@@ -79,51 +115,6 @@ Overview
 [풀이]
 "단, 실수 자료형을 사용할 경우 부동소수점 오차가 발생할 수 있으므로 주의하라." 
 이 문장 때문에 ...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/291' target='_blank'>[BOJ][Python] 3071 The ♡ System</a></b> (2025. 1. 16.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 3
-문제 유형: 진법, 구현
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-* 일단 문제에 오타가 있다.
- \(3^{2}\) +  \(3^{1}\)  +  \(3^{0}\)  인데,  \(3^{1}\)  +...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/290' target='_blank'>[BOJ][Python] 25179 배스킨라빈스~N~귀엽고~깜찍하게~</a></b> (2025. 1. 15.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 4
-문제 유형: 수학, 게임이론
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-이 문제는 2인 게임 필승 전략을 이미 알고 있던 사람이라면 쉽게 풀 수 있다. 
-우리가 알고 있는 베스킨라빈스 31 ...
 
 </details>
 
