@@ -10,6 +10,53 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/299' target='_blank'>[BOJ][Python] 2108 통계학</a></b> (2025. 2. 1.)</summary>
+
+Overview
+
+체감 난이도: ★☆☆☆☆
+문제 레벨: 실버 3
+문제 유형: 정렬, 구현, 수학
+풀이 상태: 답안참고 / 스스로 해결 -> Counter 자료구조 사용
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+ 
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+[코드]
+최빈값을 구하는 것 이외(산술평균, 중앙값, 범위)에는 간단하게 구현할 수 있...
+
+</details>
+
+<details>
+<summary><b><a href='https://zo0oz.tistory.com/298' target='_blank'>[BOJ][Python] 1018 체스판 다시 칠하기</a></b> (2025. 2. 1.)</summary>
+
+Overview
+
+체감 난이도: ★☆☆☆☆
+문제 레벨: 실버 4
+문제 유형: 브루트포스
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+[코드]
+내가 푼 방법은,
+체스판 색의 종류는 두 개로 정해져 있으니 두 개를 배열로 고정해주었다. 
+그리고 그 배열과 비교하며 다른...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/297' target='_blank'>[Code Tree][Python] IL Simulation 금 채굴하기</a></b> (2025. 1. 23.)</summary>
 
 Overview
@@ -68,53 +115,6 @@ Overview
 둘째 줄에 N개의 자연수: 5 7 11
  
 N개의 자연수를...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/294' target='_blank'>[BOJ][Python] 32344 유물 발굴</a></b> (2025. 1. 18.)</summary>
-
-Overview
-
-체감 난이도: ★☆☆☆☆
-문제 레벨: 실버 5
-문제 유형: 구현, 기하학
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-간단 구현 문제 
-다른 사람들은 입력값을 받으면서 좌표의 최소, 최대를 갱신해주는 방법으로 구현했는데, (시간 복잡도: ...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/292' target='_blank'>[BOJ][Python] 29753 최소 성적</a></b> (2025. 1. 17.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 4
-문제 유형: 수학, 구현, 임의 정밀도 
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
- 
-[풀이]
-"단, 실수 자료형을 사용할 경우 부동소수점 오차가 발생할 수 있으므로 주의하라." 
-이 문장 때문에 ...
 
 </details>
 
