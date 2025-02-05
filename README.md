@@ -10,6 +10,31 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/301' target='_blank'>[BOJ][Python] 26265 멘토와 멘티</a></b> (2025. 2. 5.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 5
+문제 유형: 정렬
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+ 
+[코드]
+groups = {}
+for x in lst:
+    if x[0] not in groups:
+        groups[x[0]...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/299' target='_blank'>[BOJ][Python] 2108 통계학</a></b> (2025. 2. 1.)</summary>
 
 Overview
@@ -89,32 +114,6 @@ Overview
 [문제]
 Trail 4 / Chapter 1 / Lesson 1 / 연습 문제
 https://www.cod...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/295' target='_blank'>[BOJ][Python] 20153 영웅이는 2의 거듭 제곱을 좋아해!</a></b> (2025. 1. 20.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 2
-문제 유형: 비트마스킹, 브루트포스
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
- 
-[문제 설명] - 예제 입력 1
-첫째 줄에 자연수 N: 3
-둘째 줄에 N개의 자연수: 5 7 11
- 
-N개의 자연수를...
 
 </details>
 
