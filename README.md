@@ -10,6 +10,56 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/305' target='_blank'>[BOJ][Python] 2630 색종이 만들기 / 분할정복, 재귀</a></b> (2025. 2. 9.)</summary>
+
+Overview
+
+체감 난이도: ★★★☆☆
+문제 레벨: 실버 2
+문제 유형: 분할정복, 재귀
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+이미지 클릭 시 문제로 이동
+
+
+
+
+예시: 8x8 종이의 경우
+
+1단계: 8x8 전체 확인
+&darr; 다른 색 발견
+2단계: 4x4로 4등분
+&darr; 각 부분...
+
+</details>
+
+<details>
+<summary><b><a href='https://zo0oz.tistory.com/304' target='_blank'>[BOJ][Python] 17626 Four Squares</a></b> (2025. 2. 9.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: 실버 3
+문제 유형: 브루트포스, DP
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+
+
+ 
+[코드]
+이 문제를 보고 정리에 대해 많이 아는 사람이 문제를 잘 풀겠구나 싶었다. 
+
+라그랑주의 네 제곱수 정리(Lagrange's four-square...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/303' target='_blank'>[BOJ][Python] 18110 solved.ac / round() 반올림 안 되는 문제</a></b> (2025. 2. 7.)</summary>
 
 Overview
@@ -81,53 +131,6 @@ groups = {}
 for x in lst:
     if x[0] not in groups:
         groups[x[0]...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/299' target='_blank'>[BOJ][Python] 2108 통계학</a></b> (2025. 2. 1.)</summary>
-
-Overview
-
-체감 난이도: ★☆☆☆☆
-문제 레벨: 실버 3
-문제 유형: 정렬, 구현, 수학
-풀이 상태: 답안참고 / 스스로 해결 -> Counter 자료구조 사용
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
- 
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-최빈값을 구하는 것 이외(산술평균, 중앙값, 범위)에는 간단하게 구현할 수 있...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/298' target='_blank'>[BOJ][Python] 1018 체스판 다시 칠하기</a></b> (2025. 2. 1.)</summary>
-
-Overview
-
-체감 난이도: ★☆☆☆☆
-문제 레벨: 실버 4
-문제 유형: 브루트포스
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-내가 푼 방법은,
-체스판 색의 종류는 두 개로 정해져 있으니 두 개를 배열로 고정해주었다. 
-그리고 그 배열과 비교하며 다른...
 
 </details>
 
