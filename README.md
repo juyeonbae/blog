@@ -10,6 +10,18 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/306' target='_blank'>Uvicorn / ASGI vs WSGI</a></b> (2025. 2. 10.)</summary>
+
+   Uvicorn이란?
+Uvicorn은 FastAPI, Starlette, Django 같은 ASGI 웹 프레임워크를 실행하는 초고속 ASGI 서버
+
+비동기(Async) 지원 &rarr; async/await을 활용한 비동기 웹 서비스 개발 가능
+초고속 &rarr; Rust로 작성된 uvloop을 사용해 매우 빠른 성능 제공
+ASGI(Application...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/305' target='_blank'>[BOJ][Python] 2630 색종이 만들기 / 분할정복, 재귀</a></b> (2025. 2. 9.)</summary>
 
 Overview
@@ -106,31 +118,6 @@ Overview
 더보기
 
 imp...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/301' target='_blank'>[BOJ][Python] 26265 멘토와 멘티</a></b> (2025. 2. 5.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 5
-문제 유형: 정렬
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-groups = {}
-for x in lst:
-    if x[0] not in groups:
-        groups[x[0]...
 
 </details>
 
