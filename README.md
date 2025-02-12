@@ -10,6 +10,39 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/308' target='_blank'>[Code Tree][Python] IL Simulation 1차원 바람</a></b> (2025. 2. 11.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨:  IL / Simulation / 격자 안에서 밀고 당기 / 연습 문제 
+문제 유형: Simulation 
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+Trail 4 / Chapter 1 / Lesson 2 / 연습 문제
+https://www.c...
+
+</details>
+
+<details>
+<summary><b><a href='https://zo0oz.tistory.com/307' target='_blank'>RESTful API</a></b> (2025. 2. 11.)</summary>
+
+   RESTful API란?
+
+RESTful API는 REST (Representational State Transfer) 아키텍처 스타일을 따르는 API
+REST는 웹 서비스 설계를 위한 원칙이며, RESTful API는 이 원칙을 준수하여 설계된 API
+
+ 
+   API란? (Application Programming Interface)
+
+소프트웨어 ...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/306' target='_blank'>Uvicorn / ASGI vs WSGI</a></b> (2025. 2. 10.)</summary>
 
    Uvicorn이란?
@@ -68,56 +101,6 @@ Overview
 이 문제를 보고 정리에 대해 많이 아는 사람이 문제를 잘 풀겠구나 싶었다. 
 
 라그랑주의 네 제곱수 정리(Lagrange's four-square...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/303' target='_blank'>[BOJ][Python] 18110 solved.ac / round() 반올림 안 되는 문제</a></b> (2025. 2. 7.)</summary>
-
-Overview
-
-체감 난이도: ★☆☆☆☆
-문제 레벨: 실버 4
-문제 유형: 수학, 구현
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-round 함수로 반올림을 구현했으나, 반올림이 되지 않는 반례 문제가 발생한다. (당황)
-# 일반적으로 기대하는 반올림
-...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/302' target='_blank'>[BOJ][Python] 7568 덩치</a></b> (2025. 2. 7.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 5
-문제 유형: 구현, 브루트포스
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-이미지 클릭 시 문제로 이동
-
-
- 
-[코드]
-처음에는 몸무게, 키 내림차순으로 정렬하고, 앞의 (몸무게, 키) 쌍과 비교해주었다. 
-(실패 코드)
-더보기
-
-imp...
 
 </details>
 
