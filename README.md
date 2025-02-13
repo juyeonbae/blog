@@ -10,6 +10,23 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/309' target='_blank'>[Code Tree][Python] IL Simulation 2차원 바람</a></b> (2025. 2. 13.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆ 90도 회전을 구현하는 게 어려웠음
+문제 레벨: IL / Simulation / 격자 안에서 밀고 당기 / 연습 문제 
+문제 유형: Simulation
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+Trail 4 / Chapter 1 / Lesson 2 / 연...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/308' target='_blank'>[Code Tree][Python] IL Simulation 1차원 바람</a></b> (2025. 2. 11.)</summary>
 
 Overview
@@ -78,29 +95,6 @@ Overview
 &darr; 다른 색 발견
 2단계: 4x4로 4등분
 &darr; 각 부분...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/304' target='_blank'>[BOJ][Python] 17626 Four Squares</a></b> (2025. 2. 9.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: 실버 3
-문제 유형: 브루트포스, DP
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-
-
- 
-[코드]
-이 문제를 보고 정리에 대해 많이 아는 사람이 문제를 잘 풀겠구나 싶었다. 
-
-라그랑주의 네 제곱수 정리(Lagrange's four-square...
 
 </details>
 
