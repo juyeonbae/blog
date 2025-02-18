@@ -10,6 +10,20 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/312' target='_blank'>HTTP vs HTTPS: HTTPS의 동작 원리</a></b> (2025. 2. 18.)</summary>
+
+HTTP(Hypertext Transfer Protocol)
+HTTP - TCP - IP 
+ 
+: 클라이언트와 서버 간 통신을 위한 통신 규약
+(웹 브라우저와 웹 서버가 데이터를 주고받는 기본 프로토콜)
+ 
+하지만, HTTP에는 다음과 같은 보안 문제가 있다. 
+1. (데이터 기밀성) 암호화되지 않은 평문 데이터를 전송해서 제 3자가 정보를 조회할 수 있다...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/311' target='_blank'>[Code Tree][Python] IL Simulation 기울어진 직사각형의 회전</a></b> (2025. 2. 14.)</summary>
 
 Overview
@@ -79,21 +93,6 @@ Overview
 [문제]
 Trail 4 / Chapter 1 / Lesson 2 / 연습 문제
 https://www.c...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/307' target='_blank'>RESTful API</a></b> (2025. 2. 11.)</summary>
-
-   RESTful API란?
-
-RESTful API는 REST (Representational State Transfer) 아키텍처 스타일을 따르는 API
-REST는 웹 서비스 설계를 위한 원칙이며, RESTful API는 이 원칙을 준수하여 설계된 API
-
- 
-   API란? (Application Programming Interface)
-
-소프트웨어 ...
 
 </details>
 
