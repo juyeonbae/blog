@@ -10,6 +10,24 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/313' target='_blank'>웹 서버 vs WAS</a></b> (2025. 2. 19.)</summary>
+
+웹(Web)이란?
+: 인터넷을 통해 정보를 공유하는 시스템
+ 
+- 클라이언트-서버 모델을 기반으로 동작한다. 
+- HTML, CSS, JavaScript로 이루어짐
+ 
+서버(Server)란?
+: 네트워크를 통해 클라이언트(사용자)의 요청을 받아 처리하고 응답하는 컴퓨터 또는 소프트웨어 
+ 
+- 요청(Request) 처리
+- 데이터 제공
+- 데이터베이스 연동...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/312' target='_blank'>HTTP vs HTTPS: HTTPS의 동작 원리</a></b> (2025. 2. 18.)</summary>
 
 HTTP(Hypertext Transfer Protocol)
@@ -75,24 +93,6 @@ Overview
 
 [문제]
 Trail 4 / Chapter 1 / Lesson 2 / 연...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/308' target='_blank'>[Code Tree][Python] IL Simulation 1차원 바람</a></b> (2025. 2. 11.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨:  IL / Simulation / 격자 안에서 밀고 당기 / 연습 문제 
-문제 유형: Simulation 
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-Trail 4 / Chapter 1 / Lesson 2 / 연습 문제
-https://www.c...
 
 </details>
 
