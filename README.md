@@ -10,6 +10,23 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/314' target='_blank'>[Code Tree][Python] IL Simulation 십자 모양 폭발</a></b> (2025. 2. 20.)</summary>
+
+Overview
+
+체감 난이도: ★☆☆☆☆ * 떨어뜨리는 방법만 알면 구현은 어렵지 않다. 
+문제 레벨: IL / Simulation / 격자 안에서 터지고 떨어지는 경우 / 연습 문제 
+문제 유형: Simulation 
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+Trail 4 / Chapter 1...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/313' target='_blank'>웹 서버 vs WAS</a></b> (2025. 2. 19.)</summary>
 
 웹(Web)이란?
@@ -76,23 +93,6 @@ Overview
  
 
 Code Tree ...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/309' target='_blank'>[Code Tree][Python] IL Simulation 2차원 바람</a></b> (2025. 2. 13.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆ 90도 회전을 구현하는 게 어려웠음
-문제 레벨: IL / Simulation / 격자 안에서 밀고 당기 / 연습 문제 
-문제 유형: Simulation
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
-Trail 4 / Chapter 1 / Lesson 2 / 연...
 
 </details>
 
