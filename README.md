@@ -10,6 +10,27 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/315' target='_blank'>[Python] 2차원 배열 회전 방법(시계/반시계) - 좌표값, 전치</a></b> (2025. 3. 13.)</summary>
+
+당신은 배열을 회전시키는 방법을 몇 개나 알고 있습니까...?
+ 
+좌표 값으로 회전시키는 방법만 생각하다가 전치 시키는 방법을 알게 되어
+선형대수가 나와 망치로 한 대 맞은 기분이 들었고
+까먹을까봐 블로그에 정리하러 왔읍니다...  
+ 
+
+먼저, 대부분이 알고 있는 좌표 값으로 배열을 회전시킨다. 
+1. 좌표 값으로 회전
+
+
+
+1(0, 0)
+2(0, 1)
+...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/314' target='_blank'>[Code Tree][Python] IL Simulation 십자 모양 폭발</a></b> (2025. 2. 20.)</summary>
 
 Overview
@@ -72,27 +93,6 @@ Overview
 
 [문제]
  Trail 4 / Ch...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/310' target='_blank'>[Code Tree][Python] IL Simulation 기울어진 직사각형</a></b> (2025. 2. 14.)</summary>
-
-Overview
-
-체감 난이도: ★★☆☆☆
-문제 레벨: IL / Simulation / 격자 안에서 완전탐색 / 연습 문제 
-문제 유형: Simulation
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
- Trail 4 / Chapter 1 / Lesson 1 / 연습 문제 
-
- 
-
-Code Tree ...
 
 </details>
 
