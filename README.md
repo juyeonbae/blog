@@ -10,6 +10,31 @@
 
 ### 최신 글
 <details>
+<summary><b><a href='https://zo0oz.tistory.com/316' target='_blank'>[BOJ][Python] 16236 아기 상어</a></b> (2025. 3. 17.)</summary>
+
+Overview
+
+체감 난이도: ★★☆☆☆
+문제 레벨: Gold 3
+문제 유형: 시뮬레이션, bfs
+풀이 상태: 답안참고 / 스스로 해결
+추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
+
+
+[문제]
+
+
+ 
+[코드]
+문제 풀이 과정
+- 구현 조건 정리 
+- 코드 실행 위치 확인 (코드 위치에 따라 실행이 달라짐)
+ 
+[구현하면서 발생한 문제점과 주의할 점...
+
+</details>
+
+<details>
 <summary><b><a href='https://zo0oz.tistory.com/315' target='_blank'>[Python] 2차원 배열 회전 방법(시계/반시계) - 좌표값, 전치</a></b> (2025. 3. 13.)</summary>
 
 당신은 배열을 회전시키는 방법을 몇 개나 알고 있습니까...?
@@ -76,23 +101,6 @@ HTTP - TCP - IP
  
 하지만, HTTP에는 다음과 같은 보안 문제가 있다. 
 1. (데이터 기밀성) 암호화되지 않은 평문 데이터를 전송해서 제 3자가 정보를 조회할 수 있다...
-
-</details>
-
-<details>
-<summary><b><a href='https://zo0oz.tistory.com/311' target='_blank'>[Code Tree][Python] IL Simulation 기울어진 직사각형의 회전</a></b> (2025. 2. 14.)</summary>
-
-Overview
-
-체감 난이도: ★☆☆☆☆ 기울어진 직사각형(완탐) 문제와 n차원 바람(회전) 문제를 섞은 문제 
-문제 레벨: IL / Simulation / 격자 안에서 밀고 당기 / 연습 문제 
-문제 유형: Simulation 
-풀이 상태: 답안참고 / 스스로 해결
-추후: 다시 풀어보기 / 간단 복습 / 완벽 이해 
-
-
-[문제]
- Trail 4 / Ch...
 
 </details>
 
